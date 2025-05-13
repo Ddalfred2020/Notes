@@ -1,0 +1,19 @@
+
+ 
+        .button-fixed{
+            background-color: black;
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 15px;
+            padding: 2px;
+        }
+        .roll{
+            position: absolute;
+            top:0px;
+            right:0px;
+            margin-top:6px ;
+            margin-right: 6px;
+        }
+    
+    
