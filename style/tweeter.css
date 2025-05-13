@@ -1,0 +1,30 @@
+
+.uber{
+  width: 320px;
+  height: 60px;
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.15);
+  padding-left: 10px;
+
+}
+.image-tweet{
+  height: 40px;
+  border-radius: 25px;
+  border-style: solid 1px gray;
+  vertical-align: middle;
+}
+.happening{
+  display: inline-block;
+  color: black;
+  text-align: center;
+  margin-left:10px ;
+}
+.button-tweet{
+  color: white;
+  background-color: blue;
+  height: 25px;
+  border-radius: 10px;
+  border: none;
+  vertical-align: middle;
+  margin-left:60px ;
+  padding:4px 8px ;
+}

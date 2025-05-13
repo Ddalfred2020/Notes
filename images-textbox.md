@@ -1,0 +1,7 @@
+# Images
+Images are loaded on the webpage by using the image element. This is represented by `<img src="" alt="">` the image element is a void element which means that it does not have a closing tag. the src, source attribute tell us where the image will be loaded and the alt attribute tell as that if this particular don,t load we can display a text, describing the image for readability purpose
+to size an image you can use width property this property make the image scale properly which is advisable but if you decide to use you the width and height property you must the`object-fit property which can take contain or cover and you might also need the object-position property to position it top,bottom,end and start` image naturally stretch to contain their container but usind the`100%` ensures that the image takes up the full space alocated to it while still keeping it size
+
+## Textboxe
+The textbox is an inline element , which means it takes up the space required.The textbox is displayed on the webpage using the input element. 
+`<input type="">` the input element is a void element with no closing tag, the type attribute tell us what kind of textbox it is, text value of the type attribute tells us that it an ordinary textbox, the checkbox, tells us that it is a checkbox

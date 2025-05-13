@@ -1,0 +1,10 @@
+
+.div-circle{
+  background-color:green;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+/* to turn a div into a circle first make it a square of equal sides then take the 
+border-radius half the length of any of the sides
+*/

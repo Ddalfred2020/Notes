@@ -1,0 +1,27 @@
+
+.flex-cat{
+  display: flex;
+  background-color: blueviolet;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.home{
+  font-size: 18px;
+  color: white;
+}
+.white{
+  background-color: white;
+  border-radius: 12px;
+  padding-left: 10px;
+  width: 800px;
+  height: 25px;
+  display: flex;
+  border: none;
+}
+.download{
+  border: 1px solid white;
+  background-color: blueviolet;
+  color: white;
+  font-size: 18px;
+}

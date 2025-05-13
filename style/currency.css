@@ -1,0 +1,57 @@
+
+
+  
+
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.outline{
+  color:black;
+  font-size: 28px;
+  margin-bottom: 5px;
+
+}
+.objective{
+font-size: 16px;
+font-weight: bold;
+color:green;
+margin-top:5px;
+margin-bottom: 5px;
+}
+.objective2{
+font-size: 28px;
+color:black;
+margin-top:5px;
+margin-bottom: 5px;
+}
+.state{
+font-size: 16px;
+color: gray;
+margin-left: 5px;
+}
+.percent{
+font-size: 16px;
+color: green;
+margin-left: 5px;
+}
+.today{
+font-size: 16px;
+color: green;
+margin-left: 5px;
+}
+.hour{
+font-size: 16px;
+color: chocolate;
+}
+.thousand{
+font-size: 16px;
+color: burlywood;
+margin-left: 5px;
+}
+.negative{
+font-size: 16px;
+color: red;
+margin-left: 3px;
+}

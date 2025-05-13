@@ -1,0 +1,19 @@
+
+.model-text{
+  color:black;
+  font-family: montserrat;
+  font-weight:700;
+  font-size: 27px;
+  text-align: center;
+
+}
+.span-text{
+  text-decoration: underline;
+}
+.developer{
+  font-size: 20px;
+  font-family:montserrat;
+  font-weight:400;
+  color: black;
+  text-align: center;
+}

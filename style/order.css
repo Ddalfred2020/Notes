@@ -1,0 +1,13 @@
+
+.button-name, 
+.button-email{
+  display: block;
+  height: 25px;
+  border-width: 1px;
+  border-color: gray;
+  width: 200px;
+  border-radius: 2px;
+  margin-bottom: 5px;
+  text-align: start;
+}
+

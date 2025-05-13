@@ -1,0 +1,23 @@
+
+.flex-item{
+  display:flex;
+  flex-direction: row;
+ }
+ .div1{
+   display: flex;
+   align-items: center;
+   background-color:pink ;
+   width: 100px;
+   height: 50px;
+ }
+ .div2{
+   background-color:turquoise;
+   width: 200px;
+   height: 50px;
+ }
+ .div3{
+   background-color: black;
+   color: white;
+   margin-left:25px ;
+
+ }

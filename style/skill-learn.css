@@ -1,0 +1,37 @@
+
+
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.code{
+   font-size: 16px;
+   color:black;
+   font-weight: bold;
+   margin-bottom: 5px;
+}
+.camp{
+  font-size: 16px;
+  color:gray;
+}
+.hour{
+  font-size: 16px;
+  color: gray;
+  margin-left:5px ;
+}
+.developer{
+  font-size:16px;
+  color:black;
+  width:480px;
+  margin-bottom:14px;
+}
+ .now{
+  font-size: 16px;
+  color:black;
+
+}
+ .check{
+  font-size: 16px;
+  color:blue;
+  
+}

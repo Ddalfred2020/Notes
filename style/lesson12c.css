@@ -1,0 +1,32 @@
+
+
+
+
+.flex-12a{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.div1{
+  
+  background-color:pink;
+  color: black; 
+}
+.div2{
+  
+  background-color:pink;
+  color: black;
+   
+}
+.div3{
+  
+  background-color:pink;
+  color: black; 
+}
+.div4{
+  
+  background-color:pink;
+  color: black; 
+}
+
+

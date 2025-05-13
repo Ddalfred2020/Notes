@@ -1,0 +1,24 @@
+
+
+
+.flex-12a{
+  display:flex;
+  flex-direction: row;
+}
+.div1{
+  width:50px;
+  background-color: aquamarine;
+  color: black; 
+}
+.div2{
+  width:75px;
+  background-color:pink;
+  color: black;
+  flex:1 
+}
+.div3{
+  width:75px;
+  background-color:aquamarine;
+  color: black; 
+}
+

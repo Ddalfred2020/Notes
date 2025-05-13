@@ -1,0 +1,12 @@
+
+.div1{
+  background-color: paleturquoise;
+  color: black;
+}.div2{
+  background-color: pink;
+  color:black;
+}
+.grid1{
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
