@@ -22,7 +22,7 @@ We are going to put our websites on the internet so that everybody can see it on
 1. get a domain name from a domain registrar, company license to sell Domain
 2. sign up or sign in to the domain registrar account, eg cheapname
 3. go to your dash board click your domain name and go to advance setting click DNS setting
-  `DNS domain name system record`
+    `DNS domain name system record`
 4. go to github and copy the url generated for you ang go too google look dns lookup find the ip address of the github url generated
 5. go to the your dashboard on name cheap and click add records the first record to add is the Arecord
 the first entry should be blank since we are not using a subdomain blank in namecheap is represented by 
