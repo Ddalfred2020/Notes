@@ -34,5 +34,6 @@ the second space should by the ip address your copy from ip lookup they should b
 9. you will find out that your websites display not secured go to setting and pages go https click the check box so that your websites is encrypted
 10. once https is added you will see a padlock icons beside your website
 11. once you click https make sure you add it to your web path as 
+
  `https://simondev.com`
 
