@@ -1,0 +1,23 @@
+
+ 
+       .game-button{
+        background-color: black;
+        color: white;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        cursor: pointer;
+       }
+       
+       .is-toggle{
+        background-color: white;
+        color: black;
+        cursor: pointer;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+
+       }
+
+
+    

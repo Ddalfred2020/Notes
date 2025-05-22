@@ -1,0 +1,46 @@
+
+  <!DOCTYPE html>
+  <html>
+      <head>
+          <title>Dom</title>
+
+    
+    
+    </head>
+    <body>
+        <input placeholder="cost of order" onkeydown="
+        console.log(event);
+                 keySent();
+            " class="js-cost">
+        <button class="js-calculate" onclick="
+         calculate();
+         ">calculate</button>
+        <p class="js-result"></p>
+        
+         <script>
+            function keySent(){
+                 if(event.key == 'Enter'){
+                      calculate();
+                  }
+            }
+            function calculate(){
+              const inputElement = document.querySelector('.js-cost');
+             let cost = Number (inputElement.value);
+             if(cost < 40){
+                  cost = cost + 10;
+             }else if(cost > 40){
+                  cost;
+             }
+             document.querySelector('.js-result').innerHTML = `$${cost}`;
+             inputElement.value = '';
+            }
+
+
+            
+        </script>
+        
+    </body>
+  </html>
+
+
+
